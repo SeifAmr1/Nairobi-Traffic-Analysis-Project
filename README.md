@@ -2,7 +2,7 @@
 
 # Nairobi Traffic Bus Ticket Demand Forecasting
 
-This project aims to **predict the number of tickets sold per ride** using a dataset of historical bus rides. The workflow involves **feature engineering**, **time series forecasting (Prophet)**, and **supervised machine learning models** (Random Forest and XGBoost) for accurate ticket count predictions.
+This project aims to **predict the number of tickets sold per ride** using a dataset of historical bus rides. The workflow involves **feature engineering**, **time series forecasting (Prophet)**, and **supervised machine learning models** (Random Forest and XGBoost) for accurate ticket count predictions. A presentation is given including statistics from tableau and recommendations.
 
 ---
 
